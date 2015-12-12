@@ -1,0 +1,1 @@
+This addon wraps both the proprietary FlyCapture API (win) and the libdc1394 API (linux, osx) to integrate the FireFly MV camera into OpenFrameworks. It's very likely that other PointGrey cameras work with it as well.
